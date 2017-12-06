@@ -1,2 +1,3 @@
 -[] clone
 -[] config
+-[] commit
